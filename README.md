@@ -3,6 +3,8 @@
 This repository contains my implementation of the ray tracer described in Peter Shirley's book [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 . I've worked through the book chapter by chapter, with each directory within this repo containing the code as it stood by the end of that chapter.
 
+![Final Render](https://raytracing.github.io/images/img-1.23-book1-final.jpg)
+
 ## Project Structure
 
 The code is organized into chapter-specific directories, mirroring the progressive development of the ray tracer within the book:
